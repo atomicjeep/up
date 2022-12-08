@@ -1,7 +1,7 @@
 url: https://www.polymag.net/
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2022-12-07T23:05:17.198Z
+status: down
+code: 500
+responseTime: 3261
+lastUpdated: 2022-12-08T05:43:08.801Z
 startTime: Sun Apr 18 2021 17:33:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
