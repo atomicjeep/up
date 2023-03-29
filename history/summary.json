@@ -22,7 +22,7 @@
     "url": "https://www.3rdhorizons.com/",
     "icon": "https://favicons.githubusercontent.com/www.3rdhorizons.com",
     "slug": "3rd-horizons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 597,
     "timeMonth": 755,
-    "timeYear": 874,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   },
   {
